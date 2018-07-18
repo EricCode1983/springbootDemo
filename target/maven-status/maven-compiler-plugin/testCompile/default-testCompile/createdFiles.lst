@@ -1,0 +1,3 @@
+com\example\ApplicationTest.class
+com\example\repository\UserRepositoryTests.class
+com\example\HelloWorldControlerTests.class
