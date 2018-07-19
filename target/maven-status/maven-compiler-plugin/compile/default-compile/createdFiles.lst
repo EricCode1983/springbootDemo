@@ -4,9 +4,11 @@ com\example\model\Employee.class
 com\example\repository\CustomerRepository.class
 com\example\config\WebConfiguration.class
 com\example\BootJpaMysqlApplication.class
+com\example\controller\CustomerController.class
 com\example\repository\NoteRepository.class
 com\example\model\Note.class
 com\example\repository\EmployeeRepository.class
+com\example\controller\UserController.class
 com\example\repository\UserRepository.class
 com\example\config\EnvConfig.class
 com\example\controller\NoteController.class

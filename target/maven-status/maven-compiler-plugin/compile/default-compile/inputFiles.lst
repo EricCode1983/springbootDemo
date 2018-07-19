@@ -1,7 +1,9 @@
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\config\EnvConfig.java
+C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\CustomerController.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\DateController.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\HelloController.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\model\Employee.java
+C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\UserController.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\CustomerRepository.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\scheduled\ScheduledTasks.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\NoteController.java

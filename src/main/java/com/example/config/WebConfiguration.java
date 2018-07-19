@@ -46,7 +46,7 @@ public class WebConfiguration {
 			// TODO Auto-generated method stub
 			HttpServletRequest request = (HttpServletRequest) srequest;
 			System.out.println("this is MyFilter,url :"+request.getRequestURI());
-			filterChain.doFilter(srequest, sresponse);
+    			filterChain.doFilter(srequest, sresponse);
 		}
 
 		@Override
