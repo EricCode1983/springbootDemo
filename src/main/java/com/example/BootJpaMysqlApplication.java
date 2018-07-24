@@ -11,15 +11,22 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import com.example.model.Customer;
 import com.example.repository.CustomerRepository;
 
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
 @SpringBootApplication
+
 //@EnableScheduling
 public class BootJpaMysqlApplication {
 
 	private static final Logger log = LoggerFactory.getLogger(BootJpaMysqlApplication.class);
 	public static void main(String[] args) {
 		SpringApplication.run(BootJpaMysqlApplication.class, args);
+		log.info("application start");
 	}
-	
+
+
+
 	
 //	@Bean
 //	public CommandLineRunner demo(CustomerRepository repository) {

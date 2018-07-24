@@ -7,12 +7,15 @@ C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\UserControll
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\CustomerRepository.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\scheduled\ScheduledTasks.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\NoteController.java
+C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\model\Student.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\BootJpaMysqlApplication.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\model\Note.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\config\WebConfiguration.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\exception\ResourceNotFoundException.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\model\Customer.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\UserRepository.java
+C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\StudentRepository.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\EmployeeRepository.java
+C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\controller\StudentController.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\repository\NoteRepository.java
 C:\Project\Java\boot-jpa-mysql\src\main\java\com\example\model\User.java
